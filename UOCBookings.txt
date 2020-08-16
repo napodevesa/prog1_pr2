@@ -1,0 +1,1 @@
+./Menu/src_api.c.o ./Menu/src_customer.c.o ./Menu/src_test.c.o ./Menu/src_hotel.c.o ./Menu/src_list.c.o ./Menu/src_main.c.o ./Menu/src_movement.c.o ./Menu/src_queue.c.o ./Menu/src_menu.c.o

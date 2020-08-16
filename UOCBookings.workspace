@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="UOCBookings" Database="" Version="10.0.0">
+  <Project Name="UOCBookings" Path="UOCBookings.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Test" Selected="yes">
+      <Environment/>
+      <Project Name="UOCBookings" ConfigName="Test"/>
+      <Project Name="UOCBookings" ConfigName="Test"/>
+      <Project Name="UOCBookings" ConfigName="Test"/>
+      <Project Name="UOCBookings" ConfigName="Test"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Menu" Selected="no">
+      <Environment/>
+      <Project Name="UOCBookings" ConfigName="Menu"/>
+      <Project Name="UOCBookings" ConfigName="Menu"/>
+      <Project Name="UOCBookings" ConfigName="Menu"/>
+      <Project Name="UOCBookings" ConfigName="Menu"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
